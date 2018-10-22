@@ -1,0 +1,19 @@
+.pics {
+    display: inline-block;
+    width: 25%;
+    margin-right: auto;
+    margin-left: auto;
+    
+    
+}
+
+.img-fluid{
+    height: 40%;
+    width: 80%;
+    padding-bottom: 10px;
+
+}
+
+.img-fluid:hover{
+    transform: scale(1.1);
+}
